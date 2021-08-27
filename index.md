@@ -4,7 +4,7 @@ I am Nicholas, a Statistics MS student and <a href="https://knight-hennessy.stan
 
 Through this blog, I hope to share some important ideas in an **intuitive** and **non-technical** manner, and to reinforce my personal understanding of these concepts. For the latter, I strongly believe that one of the best tests of whether you understand something is whether you can explain it to someone else.
 
-If you have any questions or feedback, please feel free to contact me at niclui@stanford.edu. I hope you enjoy embarking on this learning journey together with me :)
+If you have any questions or feedback, please feel free to contact me at <a href="mailto:niclui@stanford.edu" title="niclui@stanford.edu">niclui@stanford.edu</a>. I hope you enjoy embarking on this learning journey together with me :)
 
 <img src="images/xkcd.png" alt="hi" class="inline"/>
 <em>Credits: xkcd</em>
