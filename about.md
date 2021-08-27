@@ -6,5 +6,7 @@ Through this blog, I hope to share some important ideas in an **intuitive** and 
 
 If you have any questions or feedback, please feel free to contact me at <a href="mailto:niclui@stanford.edu" title="niclui@stanford.edu">niclui@stanford.edu</a>. I hope you enjoy embarking on this learning journey together with me :)
 
+<center>
 <img src="images/xkcd.png" alt="hi" class="inline"/>
 <em>Credits: xkcd</em>
+</center>
