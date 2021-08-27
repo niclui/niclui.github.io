@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: A novice's adventure into AI
+description: A blog on some useful ideas in deep learning. Hope you enjoy reading!
+github_username: nicholaslui97
 
 # Email and twitter are optional:
 email:
