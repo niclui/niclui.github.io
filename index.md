@@ -6,4 +6,4 @@ Through this blog, I hope to share some important ideas in an intuitive and acce
 
 If you have any questions or feedback, please feel free to contact me at niclui@stanford.edu. I hope you enjoy embarking on this learning journey together with me :)
 
-<img src="images/xkcd.png" alt="hi" class="inline"/>
+<img src="images/xkcd.png" alt="hi" caption="test" class="inline"/>
