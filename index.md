@@ -1,3 +1,3 @@
 ## Welcome!
 
-Welcome to my blog! As I delve into the field of AI, I hope to share some of my learnings and insights here. I hope you find them useful :)
+Thank you for visiting my website! My website is still under construction, but you might want to read my blog entries here.
